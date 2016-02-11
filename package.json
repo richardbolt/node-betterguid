@@ -1,0 +1,22 @@
+{
+  "name": "betterguid",
+  "version": "1.0.0",
+  "description": "A better guid based on Firebase's Push Ids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardbolt/node-betterguid.git"
+  },
+  "keywords": [
+    "Guid"
+  ],
+  "author": "Richard Bolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardbolt/node-betterguid/issues"
+  },
+  "homepage": "https://github.com/richardbolt/node-betterguid#readme"
+}
